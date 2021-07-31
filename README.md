@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RachitTanwar
 - 👀 I’m interested in building apps.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning java and kotlin.
 - 💞️ I’m looking to collaborate on any open source app.
 - 📫 How to reach me ...
 
