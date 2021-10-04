@@ -2,7 +2,7 @@
 - 👀 I’m interested in building apps.
 - 🌱 I’m currently learning java and solidity.
 - 💞️ I’m looking to collaborate on any open source app.
-- 📫 How to reach me ...
+- 📫 To contact me, instagram: rachit_tanwar
 
 <!---
 RachitTanwar/RachitTanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
