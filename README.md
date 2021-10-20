@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RachitTanwar
 - 👀 I’m interested in building apps.
-- 🌱 I’m currently learning java and solidity.
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on any open source app.
 - 📫 To contact me, instagram: rachit_tanwar
 
