@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RachitTanwar
-- 👀 I’m interested in mobile and blockchain development.
-- 🌱 I’m currently learning solidity.
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on any open source app.
 - 📫 To contact me, instagram: rachit_tanwar
 
