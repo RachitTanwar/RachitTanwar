@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 💬 Ask me about **Front**
-
 - 📫 How to reach me **tanwarrachit6@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vTFwU-BM3crsWH47--Aq4Mt8t6j-keRS/view?usp=sharing](https://drive.google.com/file/d/1vTFwU-BM3crsWH47--Aq4Mt8t6j-keRS/view?usp=sharing)
